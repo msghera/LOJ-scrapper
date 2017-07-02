@@ -1,5 +1,9 @@
 # LOJ-scrapper 
-# python
 
-This scrapper is created to download pdf of LightOJ problems. This can download problems in three different manners. 
-The only depency of this is 'requests module' in python3.
+# Written By
+Mohammad Shikh Ghazanfar, CSE 39t, IIUC
+
+#Technology Used
+Python3 with requests module
+
+
