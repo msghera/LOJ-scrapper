@@ -71,7 +71,7 @@ def downloadVol():
 
 def downloadAll():
 
-    start=1432
+    start=1000
     end=1435
     bar = Bar('Downloading', max=435)
     for i in range(start, end):
@@ -105,4 +105,4 @@ if __name__ == '__main__':
     if(connected_to_internet):
         main()
     else :
-        print('Enternet Connection is required')
+        print('Internet Connection is required')
